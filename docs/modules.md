@@ -9,4 +9,4 @@ Library that adds debugging helpers.
 
 [FoundryVTT Package](https://foundryvtt.com/packages/debugger) -
 [Source](https://github.com/RPG-Made-Simple/FVTT-Debugger) -
-[Documentation]()
+[Documentation](https://docs.rpgmadesimple.com/FVTT-Debugger)
