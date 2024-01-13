@@ -10,3 +10,10 @@ Library that adds debugging helpers.
 [FoundryVTT Package](https://foundryvtt.com/packages/debugger) -
 [Source](https://github.com/RPG-Made-Simple/FVTT-Debugger) -
 [Documentation](https://docs.rpgmadesimple.com/FVTT-Debugger)
+
+## 🛠️ Toolbox
+Library that adds common utilities.
+
+[FoundryVTT Package](https://foundryvtt.com/packages/toolbox) -
+[Source](https://github.com/RPG-Made-Simple/FVTT-Toolbox) -
+[Documentation](https://docs.rpgmadesimple.com/FVTT-Toolbox)
