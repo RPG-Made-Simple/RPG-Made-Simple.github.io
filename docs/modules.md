@@ -17,3 +17,10 @@ Library that adds common utilities.
 [FoundryVTT Package](https://foundryvtt.com/packages/toolbox) -
 [Source](https://github.com/RPG-Made-Simple/FVTT-Toolbox) -
 [Documentation](https://docs.rpgmadesimple.com/FVTT-Toolbox)
+
+## 🎴 Chromatic Canvas
+Library that adds canvas effects.
+
+[FoundryVTT Package](https://foundryvtt.com/packages/chromatic-canvas) -
+[Source](https://github.com/RPG-Made-Simple/FVTT-ChromaticCanvas) -
+[Documentation](https://docs.rpgmadesimple.com/FVTT-ChromaticCanvas)
