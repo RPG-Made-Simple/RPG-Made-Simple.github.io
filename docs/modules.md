@@ -24,3 +24,10 @@ Library that adds canvas effects.
 [FoundryVTT Package](https://foundryvtt.com/packages/chromatic-canvas) -
 [Source](https://github.com/RPG-Made-Simple/FVTT-ChromaticCanvas) -
 [Documentation](https://docs.rpgmadesimple.com/FVTT-ChromaticCanvas)
+
+## 🏷️ Item Tags
+Library that adds Tags.
+
+[FoundryVTT Package](https://foundryvtt.com/packages/item-tags) -
+[Source](https://github.com/RPG-Made-Simple/FVTT-ItemTags) -
+[Documentation](https://docs.rpgmadesimple.com/FVTT-ItemTags)

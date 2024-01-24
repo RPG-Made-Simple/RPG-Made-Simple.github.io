@@ -1,2 +1,2 @@
 # RPG-Made-Simple.github.io
-Contains our main website
+Contains our main website and documentation.
